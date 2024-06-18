@@ -128,6 +128,8 @@ Content -> **Background sync** -> `Blocked` ❌
 
 `#android-open-pdf-inline` -> `Enabled`
 
+`#back-forward-cache` -> `Disabled`
+
 `#darken-websites-checkbox-in-themes-setting` -> `Enabled` *(This will allow you to toggle `Dark theme for sites` under `Site settings` above)*
 
 `#enable-parallel-downloading` -> `Enabled`
