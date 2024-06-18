@@ -2,7 +2,7 @@
 
 My recommendations for the ultimate configuration of the [Vanadium](https://github.com/GrapheneOS/Vanadium) & [Mulch](https://gitlab.com/divested-mobile/mulch) Browsers :)
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/vanadium-settings), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/vanadium-settings).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-vanadium), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-vanadium).
 
 # Search engine
 
