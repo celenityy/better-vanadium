@@ -134,8 +134,6 @@ Content -> **Background sync** -> `Blocked` ❌
 
 `#enable-parallel-downloading` -> `Enabled`
 
-`sanitizer-api` -> `Enabled`
-
 # Additional recommendations
 
 * Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
