@@ -121,11 +121,9 @@ Content -> **Background sync** -> `Blocked` ❌
 
 **Ask where to save files** -> ✅
 
-**Automatically open PDFs** -> ❌
+**Automatically open PDFs** -> ❌ *(You should instead prefer to use GrapheneOS's dedicated secure [PDF Viewer](https://github.com/GrapheneOS/PdfViewer))*
 
 # chrome://flags
-
-`#android-open-pdf-inline` -> `Enabled`
 
 `#back-forward-cache` -> `Disabled`
 
